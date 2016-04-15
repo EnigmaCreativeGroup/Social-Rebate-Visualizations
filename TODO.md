@@ -1,0 +1,8 @@
+- Finish proof of concept charts, begin working on parsing the real time data
+- Ask Ryan or Ben if they want me to create the rest of the page, or just the visualizaitons. If they want the entire page, then create the layout for it
+- Create the button in the mockup that toggles between different types of charts for the data
+- Write a circle graph
+- Write a line graph
+- Write a bar graph
+- Throw in a bubble layout as well
+- Write a spec and estimate to show Ryan and Ben for 3D visualization after further evaluation of three.js
